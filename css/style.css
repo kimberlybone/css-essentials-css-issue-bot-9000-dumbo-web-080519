@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-size: "Times New Roman";
+  font-size: 15px;
 }
 
 #tasks.completed {
